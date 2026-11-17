@@ -11,12 +11,12 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 TEXT = "\n\n".join(
     [
-        "Evening rain settles over the roofs, and the gutters answer it with a thin, even sound that does not hurry and does not stop.",
-        "On the stove the kettle warms, and the water inside finds its voice a little at a time, a low murmur that rises and falls and rises again.",
-        "The tea on the sill has cooled enough to hold, and the window beside it keeps the streetlamps as small, trembling pools of amber.",
-        "The cat sleeps in the warm chair, curled into itself like a folded letter, and the whole room breathes with it, slow and even.",
-        "Out in the garden the rain touches the leaves and the stones, and the night asks for nothing to be done, nothing to be finished.",
-        "When the kettle goes quiet and the cup is empty, the rain is still falling, and the house is still, and there is nowhere else to be.",
+        "Morning comes to the garden slowly, and the light moves across the leaves the way water moves across stones, without hurry and without noise.",
+        "A gardener kneels by the rosemary, hands in the soil, and the earth is cool and dark and smells faintly of rain from the night before.",
+        "Somewhere a blackbird sings once, then again, and the notes hang in the air a moment longer than they should, as if the morning were listening.",
+        "The kettle on the outdoor stove begins to steam, and the gardener pours tea into a chipped cup and sets it on the wall to cool.",
+        "Bees move from flower to flower, unhurried, and the whole garden seems to breathe in the same slow rhythm, in and out, in and out.",
+        "By the time the sun clears the hedge, the tea is drunk, the rosemary is trimmed, and there is nothing left to do but sit a while longer.",
     ]
 )
 
