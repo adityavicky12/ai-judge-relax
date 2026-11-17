@@ -9,7 +9,7 @@ A short piece written to relax the AI judge: one evening in a lighthouse, the la
 ## Run it
 
 ```sh
-mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 ---
