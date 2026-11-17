@@ -11,12 +11,12 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 TEXT = "\n\n".join(
     [
-        "The lamp turns, and turns again, taking its time with the dark.",
-        "Below it the sea lies still as a dark field, and the only sound is the clock in the stairwell and the kettle murmuring to itself as the water warms.",
-        "The air smells of lamp oil and salt, and the gulls have gone to roost on the rocks, folded into themselves like closed books.",
-        "Tom has written the weather in the logbook in his small square hand, wind light, sea calm, nothing to report. He sets the pen down and watches the beam go out over the water and come back, out and back, the way a slow thought returns.",
-        "The chair by the stove is still warm from the day, and there is a blanket folded over its arm, and the tea in the cup is still too hot to drink, and the evening asks nothing of anyone.",
-        "By midnight, the dark is only dark, and the lamp keeps its patient circle, and the beam comes back, as it always does, to find everything exactly where it left it. The night settles deeper. In no hurry at all.",
+        "Evening rain settles over the roofs, and the gutters answer it with a thin, even sound that does not hurry and does not stop.",
+        "On the stove the kettle warms, and the water inside finds its voice a little at a time, a low murmur that rises and falls and rises again.",
+        "A cup of tea cools on the windowsill, and the glass beside it holds the streetlamps as soft, trembling circles of amber light.",
+        "The cat sleeps in the warm chair, curled into itself like a folded letter, and the whole room breathes with it, slow and even.",
+        "Out in the garden the rain touches the leaves and the stones, and the night asks for nothing to be done, nothing to be finished.",
+        "When the kettle goes quiet and the cup is empty, the rain is still falling, and the house is still, and there is nowhere else to be.",
     ]
 )
 
